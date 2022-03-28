@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kuzho
-- 👀 I’m interested in Python, PHP, HTML, CSS,Java, C++, VideoGames
+- 👋 Hi, I’m @HC
+- 👀 I’m interested in Python, PHP, HTML, CSS, Java, C++, VideoGames
 - 🌱 I’m currently learning Python
 - 💞️ 
-- 📫 How to reach me ing.tic.hector@gmail.com
+- 📫 How to reach me HCDevOps.py@gmail.com
 
 <!---
 kuzho/kuzho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
