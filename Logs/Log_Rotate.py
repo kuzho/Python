@@ -1,6 +1,6 @@
 from logging import getLogger, Formatter, INFO
 from logging.handlers import RotatingFileHandler
-#------------------------------------------------------------------------------#
+#------------------------------------------------------------------------------------------#
 def Log_Rotate():
     try:
         logger = getLogger('Log_Rotate')
@@ -13,6 +13,6 @@ def Log_Rotate():
         logger.info(f'Log_Rotate.py is running')
     except Exception as e:
         logger.error(f'Error: {e}')
-#------------------------------------------------------------------------------#
+#------------------------------------------------------------------------------------------#
 if __name__ == '__main__':
     Log_Rotate()
